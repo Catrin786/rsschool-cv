@@ -4,22 +4,18 @@ body {
     margin: 0;
     padding: 0;
 }
-
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
-
 h1 {
   text-decoration: underline;
 }
-
 h2 {
     color: #333;
     font-style: italic
 }
-
 .code-ex {
     padding: 16px;
     overflow: auto;
@@ -28,17 +24,15 @@ h2 {
     background-color: #f6f8fa;
     border-radius: 3px;
 }
-
 .photo-st {
-width: 150px; 
+width: 150px;
 height: 150px;
-border-radius: 50%; 
+border-radius: 50%;
 overflow: hidden;
-display: inline-block; 
+display: inline-block;
 }
-
 img {
-width: 100%; 
+width: 100%;
 height: 100%;
 object-fit: cover;
 }
